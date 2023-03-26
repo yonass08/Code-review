@@ -1,6 +1,6 @@
-# Code-Review-Assessment
+# Code Review Assessment
 
-This document contains the instructions you should follow to successfully complete the Code Review Practice.
+This README file contains the instructions you should follow to successfully complete the Code Review Assessment.
 
 In this github repository, you’ll find 4 python files: snippet_1.py, snippet_2.py, snippet_3.py, and snippet_4.py. 
 
